@@ -1,3 +1,11 @@
+
+
+ Se utiliza la libreria para alertas https://sweetalert2.github.io/#download  
+ ### npm install sweetalert2
+ import Swal from 'sweetalert2'
+
+
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
