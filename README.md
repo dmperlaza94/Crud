@@ -3,7 +3,7 @@
  Se utiliza la libreria para alertas https://sweetalert2.github.io/#download  
  ### npm install sweetalert2
  import Swal from 'sweetalert2'
-
+URL proyecto https://crud-eight.vercel.app/
 
  
 # Getting Started with Create React App
